@@ -101,7 +101,7 @@ npx  flowise  start
 ## 7. Valida tu solución
 
 Necesitarás definir una variable de ambiente con el nombre `OPENAI_API_KEY` y
-darle el valor de api key de OpenAI que utilizarás
+darle el valor de api key de OpenAI que utilizará
 
 Antes de ejecutar los test copiar en la carpeta `/test` con el nombre
 `'flow.json'` el archivo de exportación del flow implementado
